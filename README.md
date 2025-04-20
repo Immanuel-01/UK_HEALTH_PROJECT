@@ -90,10 +90,3 @@ It is not intended for clinical or diagnostic use.
 
 
 ---
-
-### ✅ How to use it:
-
-- Copy and paste the above into your `README.md` file on GitHub.
-- Add your **Power BI screenshots** or PDF in the repo if you'd like them to be displayed.
-
-Let me know if you want to auto-generate badge icons (e.g., `Deployed with Hugging Face`, `Made with Streamlit`) or customize it further!
